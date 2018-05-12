@@ -1,0 +1,36 @@
+_repo: Victory_24196
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Del Rey, Lester
+    aliases:
+    - Rey, Lester del
+    - Knapp, Leonard
+    birthdate: 1915
+    deathdate: 1993
+    gutenberg_agent_id: '8240'
+    url: http://www.gutenberg.org/2009/agents/8240
+    wikipedia:
+    - http://www.gutenberg.org/ebooks/author/46565
+    - http://en.wikipedia.org/wiki/Lester_del_Rey
+description: It seemed Earth was a rich and undefended planet in a warring, hating
+  galaxy. Things can be deceptive though; children playing can be quite rough--but
+  that ain't war, friend!
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2008-01-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24196'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Science fiction'
+- !lcsh 'War stories'
+title: Victory
+url: http://www.gutenberg.org/ebooks/24196
